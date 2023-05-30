@@ -1,5 +1,5 @@
 # movie-recommender-system-App
-Buildi app using streamkit for recommending movies based on selected movie
+Buildi app using streamlit for recommending movies based on selected movie
 
 deployment link - http://ec2-52-90-189-97.compute-1.amazonaws.com/
 
